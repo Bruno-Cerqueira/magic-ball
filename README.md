@@ -1,20 +1,54 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
-
-
 # Magic 8 Ball 🎱
 
-## Our Goal
+<!-- TABLE OF CONTENTS -->
 
-The objective of this challenge is to solidify what you've learn't in the Dicee tutorial. This app will guide you through the steps required to build an 8 ball app and you will be applying what you have learnt about Stateless and Stateful Flutter widgets.
+## Table of Contents
 
+- [About the Project](#about-the-project)
+  - [Built With](#built-with)
+  - [Run App](#run-app)
+  - [Further Help](#further-help)
+- [What I will learn](#what-i-will-learn)
+- [Roadmap](#roadmap)
+- [Contact](#contact)
+- [Acknowledgements](#acknowledgements)
 
-## What you will create
+<!-- ABOUT THE PROJECT -->
 
-We’re going to make a magical 8 ball app, it will give you the answers to all the tricky questions in life. You can make the ball change at the press of a button. 
+## About The Project
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/8-ball-flutter-gif.gif)
+Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase. This is project is to practice flutter and learn having fun! In this app I will learn how to make apps with functionality using setState() inside Stateful Flutter widgets.
 
+### Built With
 
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+- [Flutter](https://flutter.dev/)
 
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+### Run App
+
+Run `flutter run` to build the project. the project will be running on a virtual device.
+
+### Further help
+
+Visit the [Flutter docs](https://flutter.dev/docs).
+
+<!-- ROADMAP -->
+
+## Roadmap
+
+See the [open issues](https://github.com/Bruno-Cerqueira/magic-ball/issues) for a list of proposed features (and known issues).
+
+<!-- CONTACT -->
+
+## Contact
+
+Bruno Cerqueira - brunocerqueirasd@gmail.com
+
+Project Link: [https://github.com/Bruno-Cerqueira/magic-ball](https://github.com/Bruno-Cerqueira/magic-ball)
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## Acknowledgements
+
+- [Amaizing flutter course](https://www.udemy.com/course/flutter-bootcamp-with-dart/)
+
+- [Based Github project](https://github.com/londonappbrewery/magic-8-ball-flutter)
